@@ -5,9 +5,11 @@ This project will take a list of integers from the user (through the terminal in
 
 # Example
 Asking user for any number:
+
 ![image](https://github.com/MedeirosPereiraRaf/CSC6301_Project04/assets/136990615/d10c828c-e841-4f6e-b376-ab49895e1905)
 
 Resulting sorted linked list:
+
 ![image](https://github.com/MedeirosPereiraRaf/CSC6301_Project04/assets/136990615/56f2acdb-7014-44ad-9f51-882de9f322e2)
 
 # Size of List
